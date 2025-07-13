@@ -1,6 +1,10 @@
-# smart-exam-system
-MCA Research Project – Smart Online Exam Platform
+# Project Overview
 
-Features: Timed MCQ Tests
-Tech Stack: Python, Django, SQLite, Bootstrap
-Goal: To simplify online exams for students & teachers
+**Smart Exam System** is an online platform that allows teachers to create timed MCQ tests and students to take them securely. It features:
+- Role-based login (Admin, Teacher, Student)
+- Auto-scored quizzes
+- Timer-based questions
+- Dashboard to view scores
+
+Built using Python, Django, SQLite, and Bootstrap.
+
